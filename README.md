@@ -21,6 +21,6 @@ Com o objetivo de criar o Jogo da Vida de John Conway, este projeto foi desenvol
 
 1. Clone o repositório:
    ```bash python EstruturaJogoDaVida - PBL 2/jogo_da_vida
-   git clone https://github.com/gustavo-ec/Gerenciamento-de-Transporte-Publico.git
-   cd Gerenciamento-de-Transporte-Publico
-   python src/Gerenciamento_Transporte_Publico-estrutura_v2.6.py
+   git clone https://github.com/gustavo-ec/Jogo-da-Vida-de-John-Conway.git
+   cd Jogo-da-Vida-de-John-Conway
+   python EstruturaJogoDaVida - PBL 2/jogo_da_vida
